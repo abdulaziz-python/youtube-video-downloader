@@ -1,0 +1,14 @@
+ERROR 2024-12-21 12:22:47,875 telegram_bot Exception while handling an update: no such column: bot_telegramuser.is_owner
+ERROR 2024-12-21 12:23:16,244 telegram_bot Exception while handling an update: You cannot call this from an async context - use a thread or sync_to_async.
+ERROR 2024-12-21 12:26:27,873 telegram_bot Exception while handling an update: sync_to_async can only be applied to sync functions.
+ERROR 2024-12-21 12:26:57,056 telegram_bot Exception while handling an update: sync_to_async can only be applied to sync functions.
+ERROR 2024-12-21 12:26:59,987 telegram_bot Exception while handling an update: sync_to_async can only be applied to sync functions.
+ERROR 2024-12-21 12:27:01,691 telegram_bot Exception while handling an update: sync_to_async can only be applied to sync functions.
+ERROR 2024-12-21 12:31:42,599 telegram_bot Exception while handling an update: sync_to_async can only be applied to sync functions.
+ERROR 2024-12-21 12:31:49,799 telegram_bot Exception while handling an update: sync_to_async can only be applied to sync functions.
+ERROR 2024-12-21 12:31:52,741 telegram_bot Exception while handling an update: sync_to_async can only be applied to sync functions.
+INFO 2024-12-21 12:36:37,549 telegram_bot User 6236467772 performed action: start_command
+INFO 2024-12-21 12:40:12,411 telegram_bot User 6236467772 performed action: start_command
+INFO 2024-12-21 12:42:17,484 telegram_bot User 6236467772 performed action: start_command
+ERROR 2024-12-21 12:42:28,847 telegram_bot Exception while handling an update: name 're' is not defined
+ERROR 2024-12-21 12:43:55,965 telegram_bot Exception while handling an update: name 're' is not defined
